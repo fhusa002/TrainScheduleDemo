@@ -1,0 +1,11 @@
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\bin\Debug\net9.0\TrainSchedule.deps.json
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\bin\Debug\net9.0\TrainSchedule.dll
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\bin\Debug\net9.0\TrainSchedule.pdb
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\obj\Debug\net9.0\TrainSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\obj\Debug\net9.0\TrainSchedule.AssemblyInfoInputs.cache
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\obj\Debug\net9.0\TrainSchedule.AssemblyInfo.cs
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\obj\Debug\net9.0\TrainSchedule.csproj.CoreCompileInputs.cache
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\obj\Debug\net9.0\TrainSchedule.dll
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\obj\Debug\net9.0\refint\TrainSchedule.dll
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\obj\Debug\net9.0\TrainSchedule.pdb
+C:\Users\fhusa\TrainScheduleDemo\TrainSchedule\obj\Debug\net9.0\ref\TrainSchedule.dll
